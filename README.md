@@ -3,9 +3,9 @@
 I'm Andrey K, an enthusiastic teen coder and an entrepreneur. I've been interested both in software and in hardware (personally, I'm more into hardware) for a few years now, and I'm both learning and creating stuff, sometimes to make something easier, or just for fun!
 In this moment in time, I'm working on some personal projects. Some are very ambitious, some just for the sake of it.
 A few of my projects include:
-  * An SLM running on a Raspberry Pi, coded with only the basic conversational skills, and most of its "brainpower" directed towards getting **as much** processing power as it can, like if I plug in an Arduino Uno to the RPi, the SLM could take control of it and use it to its own desire (yes, I know this sounds like the plot of Ultron from the MCU, so I hope the model doesn't go rogue 😀). The AI will have the capabilities to browse the web for part datasheets, interact with items via protocols like USB, UART, Wi-Fi, Bluetooth, SPI, I2C, Ethernet, and more!
+  * An SLM running on a Raspberry Pi, coded with only the basic conversational skills, and most of its "brainpower" directed towards getting **as much** processing power as it can from connected or accessible devices, like if I plug in an Arduino Uno to the RPi, the SLM could take control of it and use it in ANY way, with the primary goal to increase its processing capacity (yes, I know this sounds like the plot of Ultron from the MCU, so I hope the model doesn't go rogue 😀). The AI will have the capabilities to browse the web for part datasheets, interact with items via protocols like USB, UART, Wi-Fi, Bluetooth, SPI, I2C, Ethernet, and more!
   * A local non-conversational AI agent that can do simple tasks like move files automatically, rename files, organise folders & documents, etc.
-  * An AI-powered component/module/device detector.
+  * An AI-powered component/module/device detector with value measure capabilities as well.
 
 
 ## My Tech Stack:
