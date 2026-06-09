@@ -26,7 +26,6 @@ A few of my projects include:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -98,3 +97,94 @@ A few of my projects include:
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+
+## Some basic facts about me:
+* I'm currently trying to learn more _niche_ languages, like Haskell, Elixir, Clojure, OCaml, and more.
+* Pronouns: he/him
+* Country of Origin: **Slovenia 🇸🇮 / Russia 🇷🇺**
+* Living currently: **UAE 🇦🇪**
+* Currently a student
+* "Almost-caused-a-house-fire" counter: **5**
+* A **GINORMOUS** classical and Europop fan.
+
+## Currently learning:
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![MicroPython](https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Pascal](https://img.shields.io/badge/pascal-%230288d1?style=for-the-badge&logo=lazarus&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/freecad-%23418FDE.svg?style=for-the-badge&logo=freecad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
+
+## My favourite music genres:
+* classical (Liszt, Beethoven, Vivaldi, Mozart, Rachmaninoff, Tchaikovsky, Khachaturian)
+* Europop (Joost and Käärijä, my favourite European artists)
+* gabber (Joost, the king of gabber)
+* art & alternative rock (Radiohead)
+* electroclash
+* witch house
+* breakcore (ULTRAKILL soundtracks give me DA SHIVERS)
+* jazz pop (LAUFEY MY QUEENN AAAAAARGH)
+* EDM (Daft Punk)
+
+## Instruments I can play:
+* Piano (Advanced, Grade 8-9 ABRSM)
+* Violin (Beginner-Intermediate)
+* Cello (Intermediate)
+
+## Socials I use (No, I will NOT give you my username):
+* TikTok
+* Instagram
+* Snapchat
+* Facebook
+* Slack
+* Discord
+* Reddit
+* Twitch (I sometimes stream VotV and Minecraft)
+* YouTube (not posting anything)
+* Bump
+* X (Twitter)
+* Telegram (only for my russian friends)
+
+## AI Tools I regularly use:
+* NotebookLM (Studying & project source management)
+* Gemini (File uploads and picture generation)
+* ChatGPT (Conversational tasks)
+* Edge Eloquent (Free voice-to-text and speech clean-up, basically a free version of Wispr Flow)
+* Claude (Coding and design)
+* GitHub Copilot (Inline code corrections and suggestions)
+
+## Non-AI Tools I regularly use:
+* Canva (Poster/presentation design)
+* Google Docs (Document creation)
+* Google Slides (Presentation creation)
+* Google Sheets (Spreadsheet creation)
+* Visual Studio Code (My preferred IDE)
+* Fing (Network monitoring and discovery)
+* Wine Stable (.exe emulation on my MacBook)
+* GIMP (image (usually .svg) manipulation)
+* Arduino IDE (Arduino and ESP programming)
+* OPAutoClicker (Autoclicking, duh)
+* Wireshark (network packet analysis)
+* Terminal (zsh, everyday macOS shell)
+* Mullvad VPN (regional blocks/restrictions, etc.)
+* Zen (everyday MacBook browser)
+* Firefox (everyday home PC browser, would've used Zen, but I'm having compatibility issues
+* Tor (private browsing and deep-web access)
+* Blackb0x (turning an old AppleTV into part of my homelab)
+* UTM (macOS VMs)
+* Grammarly (fix my frequenty spelling mistakes and misstypes)
+* qBittorrent (torrent service)
+* Composercat (PHP Dependency Management)
+
+## CLI Tools I use:
+* TBD
