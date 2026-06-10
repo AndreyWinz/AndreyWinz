@@ -7,6 +7,15 @@ A few of my projects include:
   * A local non-conversational AI agent that can do simple tasks like move files automatically, rename files, organise folders & documents, etc.
   * An AI-powered component/module/device detector with value measure capabilities as well.
 
+## Buy me a Coffee
+If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
+
+Please include your GitHub username in the "Note" section so I can add you to the contributor list on my profile!
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://revolut.me/andreygdl9)
+
+## Contributors:
+* No-one yet... hope to see some usernames here soon!
 
 ## My Tech Stack:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -136,6 +145,17 @@ A few of my projects include:
 * jazz pop (LAUFEY MY QUEENN AAAAAARGH)
 * EDM (Daft Punk)
 
+## My favourite games:
+* Voices of the Void (VotV, indie game on Itch.io)
+* Minecraft (Vanilla & Modded)
+* Roblox (FPS games like sniper duels, Phantom Forces, BIG! Paintball, etc., and other games like Pressure, Grace, Doors, etc.)
+* ULTRAKILL (boom boom shooter yay :D)
+* Cult of the Lamb (my first serious fandom)
+* Kerbal Space Program (Delta-V calculations take up most of my time >:O)
+* SFS (KSP equivalent on mobile)
+* R74n games (GenTown, Infinite Chef, Sandboxels, ProtoCog, wordslop)
+* Orteil games (Cookie Clicker and Neverending Legacy)
+
 ## Instruments I can play:
 * Piano (Advanced, Grade 8-9 ABRSM)
 * Violin (Beginner-Intermediate)
@@ -154,6 +174,33 @@ A few of my projects include:
 * Bump
 * X (Twitter)
 * Telegram (only for my russian friends)
+* WhatsApp (main messenger)
+
+## Tech specs for all the devices I use:
+Main PC: Need to check (I forgot >:O)
+
+Laptop: MacBook Air M3 13-inch, 2024, 8GB Memory
+
+Main Phone: iPhone 14 (Product RED)
+
+Secondary Phone: iPhone 11 Pro
+
+First Phone (old): iPhone X
+
+Tablet: Need to check (I also forgot)
+
+Homelab devices:
+* AppleTV 2nd Gen (used Blackb0x to enable ssh)
+* Old grandpa's laptop (have to check model)
+* Raspberry Pi 5 with AI hat
+* Arduino Nano
+* Arduino Uno R3 (2 of them)
+* Ideaspark ESP8266 (with on-board OLED screen)
+* ESP32-CAM
+* ESP32-S3-DevKitC-1
+* Raspberry Pi 4B (runnign Pi-Hole)
+* Raspberry Pi Zero 2 WH
+* STC8G1K17-38I-DIP16 (as a USB to Serial Gateway)
 
 ## AI Tools I regularly use:
 * NotebookLM (Studying & project source management)
@@ -185,6 +232,15 @@ A few of my projects include:
 * Grammarly (fix my frequenty spelling mistakes and misstypes)
 * qBittorrent (torrent service)
 * Composercat (PHP Dependency Management)
+* Angry IP Scanner (rapid IP enumeration and pinger)
 
 ## CLI Tools I use:
-* TBD
+* Homebrew (package manager and installer)
+* nmap (port discovery and service identification)
+* OWASP amass (subdomain enumeration)
+* exploitdb (vulnerability finder)
+* hashcat (password recover/cracking)
+* telnet (telnet communication)
+* Netcat (RCE and debugging)
+* curl (URL data collection)
+* strings (extract and print human-readable text from binary or non-text files)
