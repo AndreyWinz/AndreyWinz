@@ -190,15 +190,15 @@ First Phone (old): iPhone X
 Tablet: Need to check (I also forgot)
 
 Homelab devices:
-* AppleTV 2nd Gen (used Blackb0x to enable ssh)
+* Apple-TV 2nd Gen (used Blackb0x to enable ssh)
 * Old grandpa's laptop (have to check model)
 * Raspberry Pi 5 with AI hat
 * Arduino Nano
-* Arduino Uno R3 (2 of them)
+* Arduino Uno R3 (2 of them, one is a CH340G clone)
 * Ideaspark ESP8266 (with on-board OLED screen)
 * ESP32-CAM
 * ESP32-S3-DevKitC-1
-* Raspberry Pi 4B (runnign Pi-Hole)
+* Raspberry Pi 4B (running Pi-Hole)
 * Raspberry Pi Zero 2 WH
 * STC8G1K17-38I-DIP16 (as a USB to Serial Gateway)
 
@@ -227,9 +227,9 @@ Homelab devices:
 * Zen (everyday MacBook browser)
 * Firefox (everyday home PC browser, would've used Zen, but I'm having compatibility issues
 * Tor (private browsing and deep-web access)
-* Blackb0x (turning an old AppleTV into part of my homelab)
+* Blackb0x (turning an old Apple-TV into part of my homelab)
 * UTM (macOS VMs)
-* Grammarly (fix my frequenty spelling mistakes and misstypes)
+* Grammarly (fix my frequent spelling mistakes and typos)
 * qBittorrent (torrent service)
 * Composercat (PHP Dependency Management)
 * Angry IP Scanner (rapid IP enumeration and pinger)
@@ -239,7 +239,7 @@ Homelab devices:
 * nmap (port discovery and service identification)
 * OWASP amass (subdomain enumeration)
 * exploitdb (vulnerability finder)
-* hashcat (password recover/cracking)
+* hashcat (password recovery/cracking)
 * telnet (telnet communication)
 * Netcat (RCE and debugging)
 * curl (URL data collection)
