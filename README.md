@@ -90,20 +90,19 @@ Please include your GitHub username in the "Note" section so I can add you to th
 ![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
 
 ## My favourite music genres:
-* classical (Liszt, Beethoven, Vivaldi, Mozart, Rachmaninoff, Tchaikovsky, Khachaturian)
+* classical (Liszt, Beethoven, Vivaldi, Grieg, Rachmaninoff, Tchaikovsky, Khachaturian, Haydn)
 * Europop (Joost and Käärijä, my favourite European artists)
 * gabber (Joost, the king of gabber)
 * art & alternative rock (Radiohead)
 * electroclash
 * witch house
-* breakcore (ULTRAKILL soundtracks give me DA SHIVERS)
+* breakcore (ULTRAKILL soundtracks make me tweak out)
 * jazz pop (LAUFEY MY QUEENN AAAAAARGH)
-* EDM (Daft Punk)
 
 ## My favourite games:
 * Voices of the Void (VotV, indie game on Itch.io)
 * Minecraft (Vanilla & Modded)
-* Roblox (FPS games like sniper duels, Phantom Forces, BIG! Paintball, etc., and other games like Pressure, Grace, Doors, etc.)
+* Roblox (FPS games like Sniper Duels, Phantom Forces, BIG! Paintball, etc., and other games like Pressure, Grace, Doors, etc.)
 * ULTRAKILL (boom boom shooter yay :D)
 * Cult of the Lamb (my first serious fandom)
 * Kerbal Space Program (Delta-V calculations take up most of my time >:O)
