@@ -1,11 +1,11 @@
 ## Hi, I'm Andrey!
 
-I'm Andrey K, an enthusiastic teen coder and an entrepreneur. I've been interested both in software and in hardware (personally, I'm more into hardware) for a few years now, and I'm both learning and creating stuff, sometimes to make something easier, or just for fun!
+I'm Andrey K, an enthusiastic teen coder and an entrepreneur. I've been interested in both software and hardware (personally, I'm more into hardware) for a few years now, and I'm both learning and creating stuff, sometimes to make something easier, or just for fun!
 In this moment in time, I'm working on some personal projects. Some are very ambitious, some just for the sake of it.
 A few of my projects include:
   * An SLM running on a Raspberry Pi, coded with only the basic conversational skills, and most of its "brainpower" directed towards getting **as much** processing power as it can from connected or accessible devices, like if I plug in an Arduino Uno to the RPi, the SLM could take control of it and use it in ANY way, with the primary goal to increase its processing capacity (yes, I know this sounds like the plot of Ultron from the MCU, so I hope the model doesn't go rogue 😀). The AI will have the capabilities to browse the web for part datasheets, interact with items via protocols like USB, UART, Wi-Fi, Bluetooth, SPI, I2C, Ethernet, and more!
   * A local non-conversational AI agent that can do simple tasks like move files automatically, rename files, organise folders & documents, etc.
-  * An AI-powered component/module/device detector with value measure capabilities as well.
+  * An AI-powered component/module/device detector with value measurement capabilities as well.
 
 ## Buy me a Coffee
 If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
@@ -15,7 +15,7 @@ Please include your GitHub username in the "Note" section so I can add you to th
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://revolut.me/andreygdl9)
 
 ## Contributors:
-* No-one yet... hope to see some usernames here soon!
+* No one yet... Hope to see some usernames here soon!
 
 ## My Tech Stack:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -133,9 +133,9 @@ Please include your GitHub username in the "Note" section so I can add you to th
 * Cello (Intermediate)
 
 ## Tech specs for all the devices I use:
-Main PC: Need to check (I forgot >:O)
+Main PC: Intel Core i7-13620H, MX550, 16GB DDR4 RAM
 
-Laptop: MacBook Air M3 13-inch, 2024, 8GB Memory
+Laptop: MacBook Air M3 13-inch, 2024, 8GB LPDDR5 SDRAM
 
 Main Phone: iPhone 14 (Product RED)
 
@@ -143,60 +143,14 @@ Secondary Phone: iPhone 11 Pro
 
 First Phone (old): iPhone X
 
-Tablet: Need to check (I also forgot)
-
 Homelab devices:
 * Apple-TV 2nd Gen (used Blackb0x to enable ssh)
-* Old grandpa's laptop (have to check model)
-* Raspberry Pi 5 with AI hat
+* Old grandpa's laptop (PMIC got fried, so now CPU & RAM are for scrap)
+* Raspberry Pi 5 16GB
 * Arduino Nano
 * Arduino Uno R3 (2 of them, one is a CH340G clone)
 * Ideaspark ESP8266 (with on-board OLED screen)
 * ESP32-CAM
 * ESP32-S3-DevKitC-1
-* Raspberry Pi 4B (running Pi-Hole)
 * Raspberry Pi Zero 2 WH
-* STC8G1K17-38I-DIP16 (as a USB to Serial Gateway)
-
-## AI Tools I regularly use:
-* NotebookLM (Studying & project source management)
-* Gemini (File uploads and picture generation)
-* ChatGPT (Conversational tasks)
-* Edge Eloquent (Free voice-to-text and speech clean-up, basically a free version of Wispr Flow)
-* Claude (Coding and design)
-* GitHub Copilot (Inline code corrections and suggestions)
-
-## Non-AI Tools I regularly use:
-* Canva (Poster/presentation design)
-* Google Docs (Document creation)
-* Google Slides (Presentation creation)
-* Google Sheets (Spreadsheet creation)
-* Visual Studio Code (My preferred IDE)
-* Fing (Network monitoring and discovery)
-* Wine Stable (.exe emulation on my MacBook)
-* GIMP (image (usually .svg) manipulation)
-* Arduino IDE (Arduino and ESP programming)
-* OPAutoClicker (Autoclicking, duh)
-* Wireshark (network packet analysis)
-* Terminal (zsh, everyday macOS shell)
-* Mullvad VPN (regional blocks/restrictions, etc.)
-* Zen (everyday MacBook browser)
-* Firefox (everyday home PC browser, would've used Zen, but I'm having compatibility issues
-* Tor (private browsing and deep-web access)
-* Blackb0x (turning an old Apple-TV into part of my homelab)
-* UTM (macOS VMs)
-* Grammarly (fix my frequent spelling mistakes and typos)
-* qBittorrent (torrent service)
-* Composercat (PHP Dependency Management)
-* Angry IP Scanner (rapid IP enumeration and pinger)
-
-## CLI Tools I use:
-* Homebrew (package manager and installer)
-* nmap (port discovery and service identification)
-* OWASP amass (subdomain enumeration)
-* exploitdb (vulnerability finder)
-* hashcat (password recovery/cracking)
-* telnet (telnet communication)
-* Netcat (RCE and debugging)
-* curl (URL data collection)
-* strings (extract and print human-readable text from binary or non-text files)
+* STC8G1K17-38I-DIP16 (as a USB-to-serial gateway)
