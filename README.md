@@ -1,14 +1,14 @@
 ## Hi, I'm Andrey!
 
 I'm Andrey K, an enthusiastic teen coder and an entrepreneur. I've been interested in both software and hardware (personally, I'm more into hardware) for a few years now, and I'm both learning and creating stuff, sometimes to make something easier, or just for fun!
-In this moment in time, I'm working on some personal projects. Some are very ambitious, some just for the sake of it.
+In this moment in time, I'm working on some personal projects. Some are very ambitious; some are just for the sake of it.
 A few of my projects include:
-  * An SLM running on a Raspberry Pi, coded with only the basic conversational skills, and most of its "brainpower" directed towards getting **as much** processing power as it can from connected or accessible devices, like if I plug in an Arduino Uno to the RPi, the SLM could take control of it and use it in ANY way, with the primary goal to increase its processing capacity (yes, I know this sounds like the plot of Ultron from the MCU, so I hope the model doesn't go rogue 😀). The AI will have the capabilities to browse the web for part datasheets, interact with items via protocols like USB, UART, Wi-Fi, Bluetooth, SPI, I2C, Ethernet, and more!
+  * An SLM running on a Raspberry Pi, coded with only the basic conversational skills, and most of its "brainpower" directed towards getting **as much** processing power as it can from connected or accessible devices. If I plug in an Arduino Uno to the RPi, the SLM could take control of it and use it in ANY way, with the primary goal of increasing its processing capacity (yes, I know this sounds like the plot of Ultron from the MCU, so I hope the model doesn't go rogue 😀). The AI will have the capabilities to browse the web for part datasheets, interact with items via protocols like USB, UART, Wi-Fi, Bluetooth, SPI, I2C, Ethernet, and more!
   * A local non-conversational AI agent that can do simple tasks like move files automatically, rename files, organise folders & documents, etc.
   * An AI-powered component/module/device detector with value measurement capabilities as well.
 
 ## Buy me a Coffee
-If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
+If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee!
 
 Please include your GitHub username in the "Note" section so I can add you to the contributor list on my profile!
 
