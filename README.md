@@ -68,8 +68,8 @@ Please include your GitHub username in the "Note" section so I can add you to th
 * Country of Origin: **Slovenia 🇸🇮 / Russia 🇷🇺**
 * Living currently: **UAE 🇦🇪**
 * Currently a student
-* "Almost-caused-a-house-fire" counter: **5**
-* A **GINORMOUS** classical and Europop fan.
+* "Almost-caused-a-house-fire" counter: **7**
+* A **GINORMOUS** classical and indie rock fan.
 
 ## Currently learning:
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -91,9 +91,7 @@ Please include your GitHub username in the "Note" section so I can add you to th
 
 ## My favourite music genres:
 * classical (Liszt, Beethoven, Vivaldi, Grieg, Rachmaninoff, Tchaikovsky, Khachaturian, Haydn)
-* Europop (Joost and Käärijä, my favourite European artists)
-* gabber (Joost, the king of gabber)
-* art & alternative rock (Radiohead)
+* art & alt/indie rock (Radiohead)
 * electroclash
 * witch house
 * breakcore (ULTRAKILL soundtracks make me tweak out)
